@@ -1,6 +1,5 @@
 package jpabook.jpashop.domain.item;
 
-import jdk.nashorn.internal.runtime.regexp.joni.ast.StringNode;
 import jpabook.jpashop.domain.Category;
 import jpabook.jpashop.exception.NotEnoughStockException;
 import lombok.Getter;
